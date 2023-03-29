@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @millo503
 - 👀 I’m interested in ...Data analysis throu R and Python
-- 🌱 I’m currently learning ...R and Python
+- 🌱 I’m currently learning ...R , Python and AI solutions
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
